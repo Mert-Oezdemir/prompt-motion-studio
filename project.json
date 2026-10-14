@@ -1,0 +1,30 @@
+{
+  "title": "Üç adımda video",
+  "fps": 30,
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "Fikrini belirle",
+      "body": "Tek bir fikirle başla.",
+      "caption": "Önce fikir.",
+      "durationSeconds": 4,
+      "accent": "#8B5CF6"
+    },
+    {
+      "id": "scene-2",
+      "title": "Sahnelere ayır",
+      "body": "Mesajını kısa ve anlaşılır tut.",
+      "caption": "Sonra sahneler.",
+      "durationSeconds": 4,
+      "accent": "#06B6D4"
+    },
+    {
+      "id": "scene-3",
+      "title": "Videonu üret",
+      "body": "Önizle, kontrol et ve render al.",
+      "caption": "Son olarak video.",
+      "durationSeconds": 4,
+      "accent": "#F59E0B"
+    }
+  ]
+}
